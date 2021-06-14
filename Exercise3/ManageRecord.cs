@@ -9,7 +9,7 @@ namespace Exercise3
         private Record[] records = new Record[] { };
         static public void Add()
         {
-            Record record = new Record();
+           
 
         }
         static public void SearchCategory(string category="Recent")
